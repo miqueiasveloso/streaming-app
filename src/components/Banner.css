@@ -1,0 +1,23 @@
+.banner {
+    color: white;
+    object-fit: contain;
+    height: 450px;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+  }
+  
+  .banner-contents {
+    padding: 60px 30px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .banner-fade {
+    height: 7.4rem;
+    background-image: linear-gradient(180deg, transparent, rgba(0,0,0,0.8), #111);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
