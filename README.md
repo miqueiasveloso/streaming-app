@@ -5,8 +5,6 @@ Streaming App is a responsive Netflix-inspired movie browsing interface built wi
 
 > ⚠️ This project is for **educational and portfolio purposes only**. It is **not affiliated with Netflix**.
 
-![movieflix banner screenshot](./screenshot.png)
-
 ---
 
 ## 🚀 Features
