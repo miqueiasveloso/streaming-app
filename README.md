@@ -1,8 +1,49 @@
-# React + Vite
+# Streaming App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Streaming App is a responsive Netflix-inspired movie browsing interface built with **React**, **Vite**, and the **TMDB API**. It displays popular, top-rated, and upcoming movies in a sleek, scrollable layout that mimics the real Netflix experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> ⚠️ This project is for **educational and portfolio purposes only**. It is **not affiliated with Netflix**.
+
+![movieflix banner screenshot](./screenshot.png)
+
+---
+
+## 🚀 Features
+
+- 🎥 Featured banner with random popular movie
+- 📂 Movie rows by category (Popular, Top Rated, Upcoming)
+- 📱 Responsive design (mobile-friendly)
+- 🧩 Component-based structure
+- 🌐 Data from [The Movie Database (TMDB)](https://www.themoviedb.org/)
+
+---
+
+## 🛠️ Built With
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [TMDB API](https://developer.themoviedb.org/docs)
+- HTML + CSS
+
+---
+
+
+## 🌐 Live Demo
+
+👉 [View it live here](https://miqueiasveloso.github.io/streaming-app)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/miqueiasveloso/streaming-app.git
+cd streaming-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
